@@ -13,3 +13,13 @@ Post EAC Fumo Client, rewritten from the ground up.
 > Source Code will not be shared,
 > and binaries will **NOT** be obfuscated.
 > Feel free to open the mod in [dnSpy](https://github.com/dnSpy/dnSpy).
+
+## Credits
+
+[WTFBlaze](https://github.com/WTFBlaze) for [Button API](https://github.com/WTFBlaze/BlazesButtonAPI/)
+
+[Mezque](https://github.com/Mezque)
+> *For keeping the project and updating it.*
+
+Polar
+> *For creating Fumo Client.*
