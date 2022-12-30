@@ -14,9 +14,13 @@ Post EAC Fumo Client, rewritten from the ground up.
 > and binaries will **NOT** be obfuscated.
 > Feel free to open the mod in [dnSpy](https://github.com/dnSpy/dnSpy).
 
-## Credits
+## Libraries / APIs
 
-[WTFBlaze](https://github.com/WTFBlaze) for [Button API](https://github.com/WTFBlaze/BlazesButtonAPI/)
+[Button API](https://github.com/WTFBlaze/BlazesButtonAPI/)
+
+[Discord RPC](https://github.com/discord/discord-rpc)
+
+## Thanks
 
 [Mezque](https://github.com/Mezque)
 > *For keeping the project and updating it.*
