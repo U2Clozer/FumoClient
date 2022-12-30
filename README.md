@@ -8,3 +8,8 @@ Post EAC Fumo Client, rewritten from the ground up.
 - Join the [Fumo Client EAC](https://discord.gg/kJA5nFHuxm) discord server
 
 **Blue text is clickable**
+
+## Source Code?
+> Source Code will not be shared,
+> and binaries will **NOT** be obfuscated.
+> Feel free to open the mod in [dnSpy](https://github.com/dnSpy/dnSpy).
