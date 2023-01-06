@@ -9,11 +9,6 @@ Post EAC Fumo Client, rewritten from the ground up.
 
 **Blue text is clickable**
 
-## Source Code?
-> Source Code will not be shared,
-> and binaries will **NOT** be obfuscated.
-> Feel free to open the mod in [dnSpy](https://github.com/dnSpy/dnSpy).
-
 ## Libraries / APIs
 
 [Button API](https://github.com/WTFBlaze/BlazesButtonAPI/)
