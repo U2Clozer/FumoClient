@@ -1,0 +1,21 @@
+- 3.5.1
+Prevent IL Decompilation (Easily bypass just use your head)
+Improve Button API (Thank you >Nick)
+Add Avatar Parameter Changer
+Add Udon Behaviour Invoker
+Add Player Stats (FPS & Ping)
+Add Chat Commands (/help, /tp)
+Add OSC Sender
+Add Copy World/Join World
+(prob more i just can't remember :))
+
+- 2.8.2
+Improve LoadingScreenMusic
+Add change song after previous ends
+
+- 2.6.1
+Hot fix error if directory didn't exist
+
+- 2.6.0
+Add LoadingScreenMusic
+Improve Discord RPC
