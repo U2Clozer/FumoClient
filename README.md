@@ -22,3 +22,6 @@ Post EAC Fumo Client, rewritten from the ground up.
 
 Polar
 > *For creating Fumo Client.*
+
+
+*Mezque if you see this Project and do not want it up, contact me at Clozer#9423.*
